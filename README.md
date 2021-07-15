@@ -52,7 +52,7 @@ def store_point(request):
 
     <style type="text/css">
       /* Set the size of the div element that contains the map */
-      #map {
+      map {
         height: 600px;
         /* The height is 400 pixels */
         width: 100%;
